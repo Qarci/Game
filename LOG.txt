@@ -1,0 +1,10 @@
+20pkt + rzut szczescia 
+
+rzut szczescia 1k6
+1- pech 2-5 norma 6 szczescie
+
+maxhp 100 + condition/endurance * 15 + strenght * 5 +/- Ancestry
+
+Inicjatywa =5 + 0,5 * Agility + 0,2 * luck + 0,1 strenght + Bonus Ancestry i inne
+
+ 
