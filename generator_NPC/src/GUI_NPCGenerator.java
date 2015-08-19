@@ -29,6 +29,7 @@ public class GUI_NPCGenerator extends JFrame{
 	private static final String[] portraits = {"star.png"/*To ADD*/};
 	
 	private int hp, maxhp, initiative;
+	int pointPool = 20;
 	
 	public GUI_NPCGenerator(){
 		initGUI();
@@ -47,7 +48,6 @@ public class GUI_NPCGenerator extends JFrame{
 		String[] Power = {"0","1","2","3","4","5","6","7","8","9","10"};
 		
 		
-		int pointPool = 20;
 		JMenuBar menubar = new JMenuBar();
 		
 		JMenu fileMenu = new JMenu("File");
